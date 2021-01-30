@@ -1,0 +1,15 @@
+[submodule "spring-batch-db-db"]
+	path = spring-batch-db-db
+	url = git@github.com:ewertondias/spring-batch-db-db.git
+[submodule "spring-batch-csv-db"]
+	path = spring-batch-csv-db
+	url = git@github.com:ewertondias/spring-batch-csv-db.git
+[submodule "di-ioc-dip"]
+	path = di-ioc-dip
+	url = git@github.com:ewertondias/di-ioc-dip.git
+[submodule "aws-s3"]
+	path = aws-s3
+	url = git@github.com:ewertondias/aws-s3.git
+[submodule "aws-dynamodb"]
+	path = aws-dynamodb
+	url = git@github.com:ewertondias/aws-dynamodb.git
