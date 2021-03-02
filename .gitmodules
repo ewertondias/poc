@@ -13,3 +13,6 @@
 [submodule "aws-dynamodb"]
 	path = aws-dynamodb
 	url = git@github.com:ewertondias/aws-dynamodb.git
+[submodule "insurance"]
+	path = insurance
+	url = git@github.com:ewertondias/insurance.git
